@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Dhruv-Ghanchi/resume-builder.git/static/css/main.58716017.css",
-    "main.js": "/Dhruv-Ghanchi/resume-builder.git/static/js/main.2d44a4f5.js",
-    "static/js/977.b354189c.chunk.js": "/Dhruv-Ghanchi/resume-builder.git/static/js/977.b354189c.chunk.js",
-    "static/js/455.3ddf98db.chunk.js": "/Dhruv-Ghanchi/resume-builder.git/static/js/455.3ddf98db.chunk.js",
-    "static/js/453.5678ce78.chunk.js": "/Dhruv-Ghanchi/resume-builder.git/static/js/453.5678ce78.chunk.js",
-    "index.html": "/Dhruv-Ghanchi/resume-builder.git/index.html",
-    "main.58716017.css.map": "/Dhruv-Ghanchi/resume-builder.git/static/css/main.58716017.css.map",
-    "main.2d44a4f5.js.map": "/Dhruv-Ghanchi/resume-builder.git/static/js/main.2d44a4f5.js.map",
-    "977.b354189c.chunk.js.map": "/Dhruv-Ghanchi/resume-builder.git/static/js/977.b354189c.chunk.js.map",
-    "455.3ddf98db.chunk.js.map": "/Dhruv-Ghanchi/resume-builder.git/static/js/455.3ddf98db.chunk.js.map",
-    "453.5678ce78.chunk.js.map": "/Dhruv-Ghanchi/resume-builder.git/static/js/453.5678ce78.chunk.js.map"
+    "main.css": "/resume-builder/static/css/main.58716017.css",
+    "main.js": "/resume-builder/static/js/main.dcd34e46.js",
+    "static/js/977.b354189c.chunk.js": "/resume-builder/static/js/977.b354189c.chunk.js",
+    "static/js/455.3ddf98db.chunk.js": "/resume-builder/static/js/455.3ddf98db.chunk.js",
+    "static/js/453.5678ce78.chunk.js": "/resume-builder/static/js/453.5678ce78.chunk.js",
+    "index.html": "/resume-builder/index.html",
+    "main.58716017.css.map": "/resume-builder/static/css/main.58716017.css.map",
+    "main.dcd34e46.js.map": "/resume-builder/static/js/main.dcd34e46.js.map",
+    "977.b354189c.chunk.js.map": "/resume-builder/static/js/977.b354189c.chunk.js.map",
+    "455.3ddf98db.chunk.js.map": "/resume-builder/static/js/455.3ddf98db.chunk.js.map",
+    "453.5678ce78.chunk.js.map": "/resume-builder/static/js/453.5678ce78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58716017.css",
-    "static/js/main.2d44a4f5.js"
+    "static/js/main.dcd34e46.js"
   ]
 }
